@@ -14,10 +14,10 @@ int main()
     scanf("%lu", &person_num);
     if (is_prime(person_num))
     {
-        printf("Yeeees!!! it's prime!\n");
+        printf("YES\n");
     } else 
     {
-        printf("Ohh noo.. it's didn't prime number...\n");
+        printf("NO\n");
     }
     return 0;
 }
