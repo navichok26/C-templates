@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ functions.hpp functions.cpp verification.cpp
+g++ functions.hpp functions.cpp main.cpp
